@@ -174,9 +174,11 @@ a {
 .portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .portfolio-text {
+  line-height: 1.5;
 }
 
 /* Footer */
